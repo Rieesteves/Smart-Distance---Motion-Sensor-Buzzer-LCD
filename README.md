@@ -3,4 +3,4 @@ Arduino based smart distance project that gives an alert for anything within 10 
 
 Refer the PDF file for better undertsanding the connection componetents and the circuit diagram.
 
-Safecoding. ####tinkercad simulation ###ardunio ###smartworld
+Safecoding. #tinkercadsimulation #ardunio #smartworld
